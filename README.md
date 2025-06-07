@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Forever Yours – Rukaya & Muzamil</title>
+  <title>Forever Yours – Rukaya & Muzamil friendship forever</title>
   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins&display=swap" rel="stylesheet" />
   <style>
     * {
@@ -227,6 +227,7 @@
       <p>🤝 Friendship that became special</p>
       <p>💖 Love bloomed – 1 year 3 months strong</p>
       <p>🫶 Still going strong, forever to go...</p>
+      
     </div>
 
     <div class="surprise">
