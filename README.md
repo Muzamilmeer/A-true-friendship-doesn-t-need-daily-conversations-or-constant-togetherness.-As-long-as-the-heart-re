@@ -216,7 +216,9 @@
   <div class="heart-particles" id="hearts-container"></div>
 
   <header>
-    <h1>Forever Yours</h1>
+    <h1>Forever Yours</h1><br>
+    <h1>love you so much my dear bestie</h1>
+    
     <p class="quote">"From a conference call to forever – our journey is written in the stars."</p>
   </header>
 
