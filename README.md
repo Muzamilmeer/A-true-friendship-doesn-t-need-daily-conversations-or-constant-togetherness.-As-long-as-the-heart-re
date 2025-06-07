@@ -223,7 +223,7 @@
   </header>
 
   <section>
-    <h2>Our Story</h2>
+    <h2>Our friendship Story</h2>
     <div class="timeline">
       <p>📞 First call during Rukaya's breakup</p>
       <p>🤝 Friendship that became special</p>
